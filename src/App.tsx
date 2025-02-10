@@ -163,7 +163,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-100 p-4">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-3xl font-bold text-center mb-6">Estatísticas de Futebol</h1>
+        <h1 className="text-3xl font-bold text-center mb-6">Estatísticas Avançadas - ABC</h1>
         
         {/* Team Tabs and Reset Button */}
         <div className="flex justify-between items-center mb-6">
