@@ -161,10 +161,16 @@ function App() {
   );
 
   return (
+<<<<<<< HEAD
 <div className={`min-h-screen p-4 transition-colors duration-300 ${
   activeTeam === 'ADVERSÁRIO' ? 'bg-gray-900' : 'bg-gray-100'
 }`}>      <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold text-center mb-6">Coletor de Estatísticas avançadas - ABC</h1>
+=======
+    <div className="min-h-screen bg-gray-100 p-4">
+      <div className="max-w-7xl mx-auto">
+        <h1 className="text-3xl font-bold text-center mb-6">Estatísticas Avançadas - ABC</h1>
+>>>>>>> 0246c74763c40e2d806ec852f9ddfac5daa0f846
         
         {/* Team Tabs and Reset Button */}
         <div className="flex justify-between items-center mb-6">
